@@ -1,3 +1,5 @@
+//Given a String of characters, print all possible permutations possible (any number of letters).
+//Solved it using C.
 #include <stdio.h>
 #include<string.h>
 
